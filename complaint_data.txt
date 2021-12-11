@@ -1,0 +1,5 @@
+03005350015		Fazal Hussain		79		18		Water stagnation near street 32
+03225071595		Ayub Ghani		67		4		street cleaning due since 2/8/2021
+03455111504		Areesha Asif		79		16		Water line leakage in street 7
+03225156436		Riffat Asif		90		121		dengue spray is due in street 90
+03225156436		Riffat Asif		90		121		Illegal water boring in house 128
